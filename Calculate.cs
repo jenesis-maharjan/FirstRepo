@@ -10,7 +10,7 @@ namespace dotnetlab1
     {
         public void calculate()
         {
-            Console.WriteLine("Enter first number:");
+            Console.WriteLine("Enter first number please:");
             string num1 = Console.ReadLine();
             float first_num = float.Parse(num1);
 
