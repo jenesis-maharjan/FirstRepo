@@ -11,10 +11,13 @@ internal class Program
         //MultiplicationTable multiply = new MultiplicationTable();
         //multiply.multiply(5);
 
-        MultiplicationTable mul = new MultiplicationTable();
-        mul.mul();
+        //MultiplicationTable mul = new MultiplicationTable();
+        //mul.mul();
 
         //MultiplicationTable hi = new MultiplicationTable();
         //hi.boxMul();
+
+        Basics b = new Basics();
+        b.PrintUsername();
     }
 }
