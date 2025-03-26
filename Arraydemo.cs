@@ -24,6 +24,7 @@ namespace dotnetlab1
             studentList.Add("Sujan");
             studentList.Add("Sujit");
             studentList.Add("Simon");
+            studentList.Add("Sudip");
         }
 
 
