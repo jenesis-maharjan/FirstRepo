@@ -17,7 +17,19 @@ internal class Program
         //MultiplicationTable hi = new MultiplicationTable();
         //hi.boxMul();
 
-        Basics b = new Basics();
-        b.PrintUsername();
+        //Basics b = new Basics();
+        //b.PrintUsername();
+
+        //patterns p1 = new patterns();
+        //p1.pattern1();
+
+        //Arraydemo arr = new Arraydemo();
+        ////arr.addStudents();
+        ////arr.displayStudents();
+        //arr.percentage();
+
+        Dictionarydemo dict = new Dictionarydemo();
+        dict.addStudents();
+
     }
 }
